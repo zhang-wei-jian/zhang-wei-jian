@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=zhang-wei-jian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang-wei-jian&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
+![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=zhang-wei-jian&layout=compact&custom_title=😊%20Used%20Languages&langs_count=8&theme=radical)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhang-wei-jian&area=true&hide_border=true&theme=dracula)
 <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
